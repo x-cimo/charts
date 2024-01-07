@@ -429,7 +429,7 @@
                         "default": "8Gi"
                     }
                 },
-                 {
+                {
                     "variable": "networkPolicy",
                     "group": "Advanced",
                     "label": "(Advanced) Network Policy",
@@ -1077,7 +1077,7 @@
                             }
                         ]
                     }
-                },
+                }
             ]
         },
         "app_readme": "<h1>Emby Server</h1>\n<p>Emby Server is a personal media server with apps on just about every device</p>",
