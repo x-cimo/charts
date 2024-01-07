@@ -149,6 +149,10 @@
                 {
                     "name": "Resource Limits",
                     "description": "Set CPU/memory limits for Kubernetes Pod"
+                },
+                {
+                    "name": "Advanced",
+                    "description": "Advanced Configuration"
                 }
             ],
             "portals": {
