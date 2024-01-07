@@ -1,4 +1,4 @@
-name: emby-test
+name: emby
 description: Emby Server
 annotations:
   title: Emby Server
